@@ -24,6 +24,6 @@ Example for Raspbian:
 1. Make sure the Raspberry Pi connects to the internet
 2. Run Terminal
 3. In the terminal, type the  command below:<br>
-*wget -O - "https://raw.githubusercontent.com/SNESPi/Super-NESPi-Case/master/retropie_install.sh" | sudo bash*
+*wget -O - "https://raw.githubusercontent.com/m4rcSA/Super-NESPi-Case/master/retropie_install.sh" | sudo bash*
 
 ![](/img/image3.jpg)
