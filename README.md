@@ -26,4 +26,11 @@ Example for Raspbian:
 3. In the terminal, type the  command below:<br>
 *wget -O - "https://raw.githubusercontent.com/m4rcSA/Super-NESPi-Case/master/retropie_install.sh" | sudo bash*
 
+Example for OSMC:
+---
+1. Make sure the Raspberry Pi connects to the internet
+2. Go to command line: https://osmc.tv/wiki/general/accessing-the-command-line/
+3. In the terminal, type the  command below:<br>
+*wget -O - "https://raw.githubusercontent.com/m4rcSA/Super-NESPi-Case/master/osmc_install.sh" | sudo bash*
+
 ![](/img/image3.jpg)
