@@ -1,3 +1,6 @@
+Fork information:
+Added OSMC support to Super Nespi case
+
 SUPER  NESPI CASE
 ===
 INSTRUCTION MANUAL
